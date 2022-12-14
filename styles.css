@@ -1,5 +1,6 @@
 
-table{
-border: 2px;
-border-collapse: collapse;
+.table-bordered{
+    table-layout:table-bordered;
+    margin-left: 30px;
+    margin-top: 20px;
 }
